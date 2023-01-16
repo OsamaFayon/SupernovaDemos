@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="token_169">#ffffffff</color>
+    <color name="token_170">#ff1c4130</color>
+    <color name="qawafel">#ffffffff</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
