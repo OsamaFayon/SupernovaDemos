@@ -7,6 +7,7 @@ extension Color {
     
     struct TokenColor {
         let token169 = Color(.sRGB, red: 255/255, green: 255/255, blue: 255/255, opacity: 1) 
+        let token170 = Color(.sRGB, red: 255/255, green: 255/255, blue: 255/255, opacity: 1) 
 
         // Palette
 
