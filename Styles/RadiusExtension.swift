@@ -10,4 +10,8 @@ extension View {
     func borderWrike() -> some View {
         return self.cornerRadius(4) 
     }
+
+    func borderNewOne() -> some View {
+        return self.cornerRadius(4) 
+    }
 }
