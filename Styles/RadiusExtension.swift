@@ -14,4 +14,8 @@ extension View {
     func borderNewOne() -> some View {
         return self.cornerRadius(4) 
     }
+
+    func borderToken4() -> some View {
+        return self.cornerRadius(4) 
+    }
 }

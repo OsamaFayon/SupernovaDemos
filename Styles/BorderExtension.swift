@@ -26,4 +26,12 @@ extension View {
     func borderMistetemo() -> some View {
         return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
     }
+
+    func borderToken7() -> some View {
+        return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
+    }
+
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
+    }
 }
