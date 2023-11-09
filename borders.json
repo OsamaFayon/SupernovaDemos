@@ -961,6 +961,32 @@
         }
       },
       "type": "border"
+    },
+    "sn": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#a02c2cff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
     }
   }
 }
