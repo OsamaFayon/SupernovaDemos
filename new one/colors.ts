@@ -202,7 +202,9 @@ export const Colors = {
   /** Slightly less aquatic, still deep as an ocean */
     paletteAquaAqua1000,
     paletteAquaAqua900,
+  /** Aqua with an amazing text-on-white contrast (AAA) */
     paletteAquaAqua800,
+  /** Aqua with good-enough text-on-white contrast (AA) */
     paletteAquaAqua700,
     paletteAquaAqua600,
     paletteAquaAqua500,
