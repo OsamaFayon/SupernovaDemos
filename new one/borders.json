@@ -1,5 +1,31 @@
 {
   "border": {
+    "boarder": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#942929ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    },
     "abbott": {
       "value": {
         "color": {
@@ -116,32 +142,6 @@
             "measure": {
               "type": "size",
               "value": 5
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "position": {
-          "type": "string",
-          "value": "Center"
-        }
-      },
-      "type": "border"
-    },
-    "boarder": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#942929ff"
-        },
-        "width": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 4
             },
             "unit": {
               "type": "string",
@@ -394,14 +394,14 @@
       "value": {
         "color": {
           "type": "color",
-          "value": "#a03636ff"
+          "value": "#c05353ff"
         },
         "width": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 3
+              "value": 4
             },
             "unit": {
               "type": "string",
