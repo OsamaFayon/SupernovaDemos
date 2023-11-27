@@ -169,6 +169,7 @@ const specialRatingRatingHoveroff = "#f6be41";
 const snkToken = "#341b1b";
 const sntokne = "#df4d4d";
 const snToken = "#a14c4c";
+const snToken = "#b62626";
 const secondOne = paletteGreenGreen500;
 
 export const Colors = {
@@ -202,7 +203,9 @@ export const Colors = {
   /** Slightly less aquatic, still deep as an ocean */
     paletteAquaAqua1000,
     paletteAquaAqua900,
+  /** Aqua with an amazing text-on-white contrast (AAA) */
     paletteAquaAqua800,
+  /** Aqua with good-enough text-on-white contrast (AA) */
     paletteAquaAqua700,
     paletteAquaAqua600,
     paletteAquaAqua500,
@@ -346,6 +349,7 @@ export const Colors = {
     specialRatingRatingHoveroff,
     snkToken,
     sntokne,
+    snToken,
     snToken,
     secondOne,
 }

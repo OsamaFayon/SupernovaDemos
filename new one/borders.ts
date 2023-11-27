@@ -415,6 +415,15 @@ const token23 = {
                   },
            position: "Outside",
          };
+const snToken = {
+           color: "#8f1b1b",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -464,4 +473,5 @@ export const Borders = {
       snToken,
       sn,
       token23,
+      snToken,
 }
