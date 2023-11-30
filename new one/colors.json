@@ -731,11 +731,15 @@
       "type": "color"
     },
     "sn-token": {
-      "value": "#b62626ff",
+      "value": "#d94747ff",
       "type": "color"
     },
     "second-one": {
       "value": "{color.palette.green.green-500.value}",
+      "type": "color"
+    },
+    "token-1": {
+      "value": "{color.palette.green.green-1100.value}",
       "type": "color"
     }
   }
