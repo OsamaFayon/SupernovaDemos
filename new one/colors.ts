@@ -226,6 +226,7 @@ const orange500 = "#cc4d00";
 const orange600 = "#b53c0a";
 const token2 = "#ffffff";
 const newToken = "#c56a6a";
+const newToken = "#0e0202";
 const secondOne = paletteGreenGreen500;
 const token1 = paletteGreenGreen1100;
 const foregroundNeutral = neutral900;
@@ -516,6 +517,7 @@ export const Colors = {
     orange500,
     orange600,
     token2,
+    newToken,
     newToken,
     secondOne,
     token1,
