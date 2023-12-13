@@ -166,11 +166,6 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const snkToken = "#341b1b";
-const sntokne = "#df4d4d";
-const snToken = "#a14c4c";
-const snToken = "#b62626";
-const snToken = "#d94747";
 const foregroundNeutralFaded = "#606981";
 const foregroundPlaceholder = "#7f8694";
 const backgroundNeutralHighlighted = "#182d6614";
@@ -224,11 +219,8 @@ const orange100 = "#fef8eb";
 const orange200 = "#fbe5c5";
 const orange500 = "#cc4d00";
 const orange600 = "#b53c0a";
-const token2 = "#ffffff";
-const newToken = "#c56a6a";
-const newToken = "#0e0202";
-const secondOne = paletteGreenGreen500;
-const token1 = paletteGreenGreen1100;
+const token1 = "#ffffff";
+const snToken = "#c58787";
 const foregroundNeutral = neutral900;
 const foregroundPrimary = primary600;
 const foregroundCritical = red600;
@@ -458,11 +450,6 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    snkToken,
-    sntokne,
-    snToken,
-    snToken,
-    snToken,
     foregroundNeutralFaded,
     foregroundPlaceholder,
     backgroundNeutralHighlighted,
@@ -516,11 +503,8 @@ export const Colors = {
     orange200,
     orange500,
     orange600,
-    token2,
-    newToken,
-    newToken,
-    secondOne,
     token1,
+    snToken,
     foregroundNeutral,
     foregroundPrimary,
     foregroundCritical,
