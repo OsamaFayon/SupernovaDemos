@@ -1074,18 +1074,6 @@
         }
       }
     },
-    "snk-token": {
-      "value": "#341b1bff",
-      "type": "color"
-    },
-    "sntokne": {
-      "value": "#df4d4dff",
-      "type": "color"
-    },
-    "sn-token": {
-      "value": "#d94747ff",
-      "type": "color"
-    },
     "neutral-900": {
       "value": "#14171fff",
       "type": "color"
@@ -1170,20 +1158,12 @@
       "value": "#b53c0aff",
       "type": "color"
     },
-    "token-2": {
+    "token-1": {
       "value": "#ffffffff",
       "type": "color"
     },
-    "new-token": {
-      "value": "#0e0202ff",
-      "type": "color"
-    },
-    "second-one": {
-      "value": "{color.palette.green.green-500.value}",
-      "type": "color"
-    },
-    "token-1": {
-      "value": "{color.palette.green.green-1100.value}",
+    "sn-token": {
+      "value": "#c58787ff",
       "type": "color"
     }
   }
