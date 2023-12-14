@@ -451,6 +451,15 @@ const snBorader = {
                   },
            position: "Outside",
          };
+const token25 = {
+           color: "#ba3939",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 
 
 export const Borders = {
@@ -504,4 +513,5 @@ export const Borders = {
       token24,
       newToken,
       snBorader,
+      token25,
 }
