@@ -1165,6 +1165,10 @@
     "sn-token": {
       "value": "#c58787ff",
       "type": "color"
+    },
+    "token-2": {
+      "value": "#923838ff",
+      "type": "color"
     }
   }
 }
