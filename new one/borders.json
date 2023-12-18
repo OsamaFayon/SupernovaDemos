@@ -4,14 +4,14 @@
       "value": {
         "color": {
           "type": "color",
-          "value": "#942929ff"
+          "value": "#6b1717ff"
         },
         "width": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 4
+              "value": 3
             },
             "unit": {
               "type": "string",
