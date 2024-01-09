@@ -224,6 +224,7 @@ const snToken = "#c58787";
 const token2 = "#923838";
 const snToken = "#963535";
 const snToken = "#8f4848";
+const snToken = "#982323";
 const foregroundNeutral = neutral900;
 const foregroundPrimary = primary600;
 const foregroundCritical = red600;
@@ -509,6 +510,7 @@ export const Colors = {
     token1,
     snToken,
     token2,
+    snToken,
     snToken,
     snToken,
     foregroundNeutral,
