@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="token_1">#ffffffff</color>
+    <color name="sn_token">#ffc58787</color>
+    <color name="token_2">#ff923838</color>
     <color name="neutral_900">#ff14171f</color>
     <color name="primary_200">#ffedf5ff</color>
     <color name="primary_600">#ff0f62fe</color>
@@ -21,9 +24,8 @@
     <color name="orange_200">#fffbe5c5</color>
     <color name="orange_500">#ffcc4d00</color>
     <color name="orange_600">#ffb53c0a</color>
-    <color name="token_1">#ffffffff</color>
-    <color name="sn_token">#ffc58787</color>
-    <color name="token_2">#ff923838</color>
+    <color name="sn_token">#ff963535</color>
+    <color name="sn_token">#ff8f4848</color>
 
     <color name="foreground_neutral">#ff14171f</color>
     <color name="foreground_neutral_faded">#ff606981</color>
