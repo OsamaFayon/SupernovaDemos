@@ -123,6 +123,11 @@ const dimensionOpacityDisabled = {
           unit: "Pixels",
           css: "50px"
          };
+const borderRadiusSnRadius = {
+          measure: 5,
+          unit: "Pixels",
+          css: "5px"
+         };
 
 export const Measures = {
       dimensionToken1,
@@ -152,4 +157,5 @@ export const Measures = {
       dimensionSpacing36,
       dimensionSpacing40,
       dimensionOpacityDisabled,
+      borderRadiusSnRadius,
 }
