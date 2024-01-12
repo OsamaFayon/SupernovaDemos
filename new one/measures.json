@@ -343,6 +343,19 @@
           }
         },
         "type": "measure"
+      },
+      "sn-radius": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 5
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
       }
     },
     "duration": {},
