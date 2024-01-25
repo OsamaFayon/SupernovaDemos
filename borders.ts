@@ -505,6 +505,15 @@ const snToken = {
                   },
            position: "Center",
          };
+const borader = {
+           color: "#b54c4c",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -564,4 +573,5 @@ export const Borders = {
       boarder,
       token27,
       snToken,
+      borader,
 }
