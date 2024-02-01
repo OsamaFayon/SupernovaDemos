@@ -1169,6 +1169,14 @@
     "token-2": {
       "value": "#923838ff",
       "type": "color"
+    },
+    "supernova-color": {
+      "value": "#2b55bdff",
+      "type": "color"
+    },
+    "sn-color-toekn": {
+      "value": "#b52828ff",
+      "type": "color"
     }
   }
 }
