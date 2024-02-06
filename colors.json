@@ -1177,6 +1177,14 @@
     "sn-color-toekn": {
       "value": "#b52828ff",
       "type": "color"
+    },
+    "sn-token-1": {
+      "value": "#330505ff",
+      "type": "color"
+    },
+    "tst-token": {
+      "value": "#9f2b2bff",
+      "type": "color"
     }
   }
 }

@@ -1221,6 +1221,32 @@
         }
       },
       "type": "border"
+    },
+    "token-29": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#721c1cff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
     }
   }
 }
