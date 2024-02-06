@@ -230,6 +230,11 @@ const snToken = "#ce4c4c";
 const snToken = "#ad4040";
 const snToken = "#c51a1a";
 const snToken = "#5f3a3a";
+const supernovaColor = "#2b55bd";
+const snColorToekn = "#b52828";
+const snToken = "#cd6666";
+const snToken1 = "#330505";
+const tstToken = "#9f2b2b";
 const foregroundNeutral = neutral900;
 const foregroundPrimary = primary600;
 const foregroundCritical = red600;
@@ -523,6 +528,11 @@ export const Colors = {
     snToken,
     snToken,
     snToken,
+    supernovaColor,
+    snColorToekn,
+    snToken,
+    snToken1,
+    tstToken,
     foregroundNeutral,
     foregroundPrimary,
     foregroundCritical,
