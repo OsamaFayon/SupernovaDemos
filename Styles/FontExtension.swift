@@ -140,4 +140,16 @@ public extension Text {
         return self
             .font(Font.custom("Inter-regular", size: 14))
     }
+
+    func textStyleToken14() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+    }
+
+    func textStyleSnTypography() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+            .underline() 
+            .textCase(.lowercase) 
+    }
 }

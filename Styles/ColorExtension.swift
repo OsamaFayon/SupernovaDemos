@@ -41,6 +41,9 @@ public extension Color {
         public let supernovaColor = Color(.sRGB, red: 43/255, green: 85/255, blue: 189/255, opacity: 1) 
         public let snColorToekn = Color(.sRGB, red: 181/255, green: 40/255, blue: 40/255, opacity: 1) 
         public let snToken = Color(.sRGB, red: 205/255, green: 102/255, blue: 102/255, opacity: 1) 
+        public let snToken1 = Color(.sRGB, red: 51/255, green: 5/255, blue: 5/255, opacity: 1) 
+        public let tstToken = Color(.sRGB, red: 159/255, green: 43/255, blue: 43/255, opacity: 1) 
+        public let snToken = Color(.sRGB, red: 169/255, green: 66/255, blue: 66/255, opacity: 1) 
 
         // Foreground
         public let foregroundNeutral = Color(.sRGB, red: 20/255, green: 23/255, blue: 31/255, opacity: 1) 
