@@ -12,6 +12,32 @@
         }
       },
       "type": "font"
+    },
+    "font": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "AR One Sans"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "700"
+        }
+      },
+      "type": "font"
+    },
+    "new-font": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "AR One Sans"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "700"
+        }
+      },
+      "type": "font"
     }
   }
 }
