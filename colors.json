@@ -1074,6 +1074,18 @@
         }
       }
     },
+    "token-1": {
+      "value": "#ffffffff",
+      "type": "color"
+    },
+    "sn-token": {
+      "value": "#892a2aff",
+      "type": "color"
+    },
+    "token-2": {
+      "value": "#923838ff",
+      "type": "color"
+    },
     "neutral-900": {
       "value": "#14171fff",
       "type": "color"
@@ -1156,18 +1168,6 @@
     },
     "orange-600": {
       "value": "#b53c0aff",
-      "type": "color"
-    },
-    "token-1": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "sn-token": {
-      "value": "#892a2aff",
-      "type": "color"
-    },
-    "token-2": {
-      "value": "#923838ff",
       "type": "color"
     },
     "supernova-color": {
