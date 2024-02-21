@@ -1,15 +1,6 @@
 
 import { Colors } from './colors';
 import { Measures } from './measures';
-const boarder = {
-           color: "#281b1b",
-           width: {
-                   measure: 5,
-                   unit: "Pixels",
-                   css: "5px"
-                  },
-           position: "Center",
-         };
 const abbott = {
            color: "#c16464",
            width: {
@@ -48,6 +39,15 @@ const laPosteBoarder = {
          };
 const fossBoarder = {
            color: "#d42121",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const boarder = {
+           color: "#281b1b",
            width: {
                    measure: 5,
                    unit: "Pixels",
@@ -244,8 +244,26 @@ const snBoarder = {
                   },
            position: "Center",
          };
-const token11 = {
-           color: "#953e3e",
+const snBoarder = {
+           color: "#c05353",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const snBoarder = {
+           color: "#a03636",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const snToken = {
+           color: "#8f1b1b",
            width: {
                    measure: 3,
                    unit: "Pixels",
@@ -259,6 +277,15 @@ const name = {
                    measure: 4,
                    unit: "Pixels",
                    css: "4px"
+                  },
+           position: "Center",
+         };
+const token11 = {
+           color: "#953e3e",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
                   },
            position: "Center",
          };
@@ -286,15 +313,6 @@ const token14 = {
                    measure: 4,
                    unit: "Pixels",
                    css: "4px"
-                  },
-           position: "Center",
-         };
-const snBoarder = {
-           color: "#a03636",
-           width: {
-                   measure: 3,
-                   unit: "Pixels",
-                   css: "3px"
                   },
            position: "Center",
          };
@@ -342,15 +360,6 @@ const token18 = {
                    css: "3px"
                   },
            position: "Outside",
-         };
-const snBoarder = {
-           color: "#c05353",
-           width: {
-                   measure: 4,
-                   unit: "Pixels",
-                   css: "4px"
-                  },
-           position: "Center",
          };
 const token19 = {
            color: "#9c4d4d",
@@ -415,15 +424,6 @@ const token23 = {
                   },
            position: "Outside",
          };
-const snToken = {
-           color: "#8f1b1b",
-           width: {
-                   measure: 3,
-                   unit: "Pixels",
-                   css: "3px"
-                  },
-           position: "Center",
-         };
 const token24 = {
            color: "#b64646",
            width: {
@@ -487,15 +487,69 @@ const boarder = {
                   },
            position: "Center",
          };
+const token27 = {
+           color: "#000000",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const snToken = {
+           color: "#d94a4a",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const borader = {
+           color: "#b54c4c",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const token28 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
+const boarder = {
+           color: "#671d1d",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const token29 = {
+           color: "#721c1c",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
-      boarder,
       abbott,
       ey4,
       bellBoarder,
       laPosteBoarder,
       fossBoarder,
+      boarder,
       newTestBoarderValue,
       kelkioBoarder,
       newBoarder,
@@ -517,18 +571,19 @@ export const Borders = {
       token10,
       snBoarder,
       snBoarder,
-      token11,
+      snBoarder,
+      snBoarder,
+      snToken,
       name,
+      token11,
       token12,
       token13,
       token14,
-      snBoarder,
       token15,
       boarder,
       token16,
       token17,
       token18,
-      snBoarder,
       token19,
       token20,
       token21,
@@ -536,7 +591,6 @@ export const Borders = {
       snToken,
       sn,
       token23,
-      snToken,
       token24,
       newToken,
       snBorader,
@@ -544,4 +598,10 @@ export const Borders = {
       boarder,
       token26,
       boarder,
+      token27,
+      snToken,
+      borader,
+      token28,
+      boarder,
+      token29,
 }
