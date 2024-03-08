@@ -503,6 +503,10 @@
     "white": {
       "value": "#ffffffff",
       "type": "color"
+    },
+    "sn-token": {
+      "value": "#9b4242ff",
+      "type": "color"
     }
   }
 }
