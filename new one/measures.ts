@@ -1,3 +1,38 @@
+const borderRadiusRadiusToken = {
+          measure: 6,
+          unit: "Pixels",
+          css: "6px"
+         };
+const borderRadiusRd = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const borderRadiusKelioMeasure = {
+          measure: 3,
+          unit: "Pixels",
+          css: "3px"
+         };
+const borderRadiusToken1 = {
+          measure: 6,
+          unit: "Pixels",
+          css: "6px"
+         };
+const borderRadiusSnRadius = {
+          measure: 5,
+          unit: "Pixels",
+          css: "5px"
+         };
+const dimensionToken1 = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const dimensionToken2 = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
 const dimensionBorderRadiusNone = {
           measure: 0,
           unit: "Pixels",
@@ -88,28 +123,20 @@ const dimensionSpacing40 = {
           unit: "Pixels",
           css: "40px"
          };
-const dimensionSpacingSemanticStackGap = {
-          measure: 1,
-          unit: "Pixels",
-          css: "1px"
-         };
 const dimensionOpacityDisabled = {
           measure: 50,
           unit: "Pixels",
           css: "50px"
          };
-const dimensionShadowFocusRingWidth = {
-          measure: 3,
-          unit: "Pixels",
-          css: "3px"
-         };
-const borderRadiusRadius = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
-         };
 
 export const Measures = {
+      borderRadiusRadiusToken,
+      borderRadiusRd,
+      borderRadiusKelioMeasure,
+      borderRadiusToken1,
+      borderRadiusSnRadius,
+      dimensionToken1,
+      dimensionToken2,
   /** No radius */
       dimensionBorderRadiusNone,
       dimensionBorderRadiusSmall,
@@ -130,8 +157,5 @@ export const Measures = {
       dimensionSpacing32,
       dimensionSpacing36,
       dimensionSpacing40,
-      dimensionSpacingSemanticStackGap,
       dimensionOpacityDisabled,
-      dimensionShadowFocusRingWidth,
-      borderRadiusRadius,
 }
