@@ -1,5 +1,11 @@
 
 :root {
+    --measureDimensionToken1: 10px;    
+    --measureBorderRadiusRadiusToken: 6px;    
+    --measureBorderRadiusRd: 10px;    
+    --measureDimensionToken2: 10px;    
+    --measureBorderRadiusKelioMeasure: 3px;    
+    --measureBorderRadiusToken1: 6px;    
     /* No radius */
     --measureDimensionBorderRadiusNone: 0px;    
     --measureDimensionBorderRadiusSmall: 3px;    
@@ -20,8 +26,5 @@
     --measureDimensionSpacing32: 32px;    
     --measureDimensionSpacing36: 36px;    
     --measureDimensionSpacing40: 40px;    
-    --measureDimensionSpacingSemanticStackGap: 1px;    
     --measureDimensionOpacityDisabled: 50px;    
-    --measureDimensionShadowFocusRingWidth: 3px;    
-    --measureBorderRadiusRadius: 10px;    
 }
