@@ -92,6 +92,41 @@
         <item name="android:textStyle">normal</item>
     </style>
     
+    <style name="TypoToken">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/abhaya_libre_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="Token13">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="Typo">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="Token14">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="SnTypography">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
     <style name="H1">
         <item name="android:textSize">57sp</item>
         <item name="android:letterSpacing">0</item>
@@ -170,6 +205,8 @@
     </style>
 
 </resources>
+  
+
   
 
   

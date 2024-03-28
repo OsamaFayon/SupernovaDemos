@@ -44,7 +44,8 @@
     <dimen name="border_radius_radius_token">6dp</dimen>
     <dimen name="border_radius_rd">10dp</dimen>
     <dimen name="border_radius_kelio_measure">3dp</dimen>
-    <dimen name="border_radius_token_1">6dp</dimen> 
+    <dimen name="border_radius_token_1">6dp</dimen>
+    <dimen name="border_radius_sn_radius">5dp</dimen> 
  
  
 

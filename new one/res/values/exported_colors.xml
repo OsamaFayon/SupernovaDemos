@@ -3,6 +3,21 @@
     <color name="token_1">#ffffffff</color>
     <color name="sn_token">#ffc58787</color>
     <color name="token_2">#ff923838</color>
+    <color name="sn_token">#ff963535</color>
+    <color name="sn_token">#ff8f4848</color>
+    <color name="sn_token">#ff982323</color>
+    <color name="sn_token">#ffb45555</color>
+    <color name="sn_token">#ffce4c4c</color>
+    <color name="sn_token">#ffad4040</color>
+    <color name="sn_token">#ffc51a1a</color>
+    <color name="sn_token">#ff5f3a3a</color>
+    <color name="supernova_color">#ff2b55bd</color>
+    <color name="sn_color_toekn">#ffb52828</color>
+    <color name="sn_token">#ffcd6666</color>
+    <color name="sn_token_1">#ff330505</color>
+    <color name="tst_token">#ff9f2b2b</color>
+    <color name="sn_token">#ffa94242</color>
+    <color name="sn_token">#ff892a2a</color>
     <color name="neutral_900">#ff14171f</color>
     <color name="primary_200">#ffedf5ff</color>
     <color name="primary_600">#ff0f62fe</color>
@@ -24,8 +39,6 @@
     <color name="orange_200">#fffbe5c5</color>
     <color name="orange_500">#ffcc4d00</color>
     <color name="orange_600">#ffb53c0a</color>
-    <color name="sn_token">#ff963535</color>
-    <color name="sn_token">#ff8f4848</color>
 
     <color name="foreground_neutral">#ff14171f</color>
     <color name="foreground_neutral_faded">#ff606981</color>
@@ -118,19 +131,6 @@
     <color name="decorative_yellow_background">#fffef9c3</color>
     <color name="decorative_new_decorative">#ffffffff</color>
 
-
-    <color name="palette_green_green_1100">#ff0e2a21</color>
-    <color name="palette_green_green_1000">#ff1c4130</color>
-    <color name="palette_green_green_900">#ff2d6944</color>
-    <color name="palette_green_green_800">#ff3c884d</color>
-    <color name="palette_green_green_700">#ff4ca45a</color>
-    <color name="palette_green_green_600">#ff5ab261</color>
-    <color name="palette_green_green_500">#ff78c767</color>
-    <color name="palette_green_green_400">#ff8fda75</color>
-    <color name="palette_green_green_300">#ffa9e297</color>
-    <color name="palette_green_green_200">#ffccf0c2</color>
-    <color name="palette_green_green_100">#ffddf3d9</color>
-    <color name="palette_green_green_0">#ffeef9ec</color>
 
     <color name="palette_orange_orange_1100">#ff2a140f</color>
     <color name="palette_orange_orange_1000">#ff581d09</color>
@@ -280,17 +280,25 @@
     <color name="palette_magenta_magenta_100">#fff5e4fa</color>
     <color name="palette_magenta_magenta_0">#fffcf0fe</color>
 
+    <color name="palette_green_green_1100">#ff0e2a21</color>
+    <color name="palette_green_green_1000">#ff1c4130</color>
+    <color name="palette_green_green_900">#ff2d6944</color>
+    <color name="palette_green_green_800">#ff3c884d</color>
+    <color name="palette_green_green_700">#ff4ca45a</color>
+    <color name="palette_green_green_600">#ff5ab261</color>
+    <color name="palette_green_green_500">#ff78c767</color>
+    <color name="palette_green_green_400">#ff8fda75</color>
+    <color name="palette_green_green_300">#ffa9e297</color>
+    <color name="palette_green_green_200">#ffccf0c2</color>
+    <color name="palette_green_green_100">#ffddf3d9</color>
+    <color name="palette_green_green_0">#ffeef9ec</color>
+
 
     <color name="special_rating_rating_on">#fff6be41</color>
     <color name="special_rating_rating_hover_on">#ffd49b35</color>
     <color name="special_rating_rating_off">#ffdfe1e1</color>
     <color name="special_rating_rating_hover_off">#fff6be41</color>
 
-
-    <color name="semantic_warning_warning_color">#ff8b4f1f</color>
-    <color name="semantic_warning_warning_icon">#ffba7506</color>
-    <color name="semantic_warning_warning_border">#fffad961</color>
-    <color name="semantic_warning_warning_background">#fffbeed1</color>
 
     <color name="semantic_primary_primary_active_background">#ff58c1b2</color>
     <color name="semantic_primary_primary_hover_background">#ff6addc6</color>
@@ -325,6 +333,11 @@
     <color name="semantic_success_success_icon">#ff3c884d</color>
     <color name="semantic_success_success_border">#ff8fda75</color>
     <color name="semantic_success_success_background">#ffddf3d9</color>
+
+    <color name="semantic_warning_warning_color">#ff8b4f1f</color>
+    <color name="semantic_warning_warning_icon">#ffba7506</color>
+    <color name="semantic_warning_warning_border">#fffad961</color>
+    <color name="semantic_warning_warning_background">#fffbeed1</color>
 
 
 </resources>
