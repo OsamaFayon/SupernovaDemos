@@ -1,9 +1,19 @@
+const dimensionToken1 = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
 const borderRadiusRadiusToken = {
           measure: 6,
           unit: "Pixels",
           css: "6px"
          };
 const borderRadiusRd = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const dimensionToken2 = {
           measure: 10,
           unit: "Pixels",
           css: "10px"
@@ -17,21 +27,6 @@ const borderRadiusToken1 = {
           measure: 6,
           unit: "Pixels",
           css: "6px"
-         };
-const borderRadiusSnRadius = {
-          measure: 5,
-          unit: "Pixels",
-          css: "5px"
-         };
-const dimensionToken1 = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
-         };
-const dimensionToken2 = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
          };
 const dimensionBorderRadiusNone = {
           measure: 0,
@@ -128,15 +123,19 @@ const dimensionOpacityDisabled = {
           unit: "Pixels",
           css: "50px"
          };
+const borderRadiusSnRadius = {
+          measure: 5,
+          unit: "Pixels",
+          css: "5px"
+         };
 
 export const Measures = {
+      dimensionToken1,
       borderRadiusRadiusToken,
       borderRadiusRd,
+      dimensionToken2,
       borderRadiusKelioMeasure,
       borderRadiusToken1,
-      borderRadiusSnRadius,
-      dimensionToken1,
-      dimensionToken2,
   /** No radius */
       dimensionBorderRadiusNone,
       dimensionBorderRadiusSmall,
@@ -158,4 +157,5 @@ export const Measures = {
       dimensionSpacing36,
       dimensionSpacing40,
       dimensionOpacityDisabled,
+      borderRadiusSnRadius,
 }
