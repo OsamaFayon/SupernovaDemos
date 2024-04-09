@@ -68,6 +68,8 @@
     --colorColorDemoColorToken: #715959;    
     --colorColorTestDemo: #5a1c1c;    
     --colorColorSnToken: #271111;    
+    --colorColorOsama: #643131;    
+    --colorColorTestValue: #402d2d;    
     --colorForegroundNeutral: var(--colorNeutralNeutral900);    
     --colorForegroundPrimary: var(--colorPrimaryPrimary800);    
     --colorForegroundCritical: var(--colorRedRed600);    
