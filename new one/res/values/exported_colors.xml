@@ -132,35 +132,6 @@
     <color name="decorative_new_decorative">#ffffffff</color>
 
 
-    <color name="palette_orange_orange_1100">#ff2a140f</color>
-    <color name="palette_orange_orange_1000">#ff581d09</color>
-    <color name="palette_orange_orange_900">#ff8a341a</color>
-    <color name="palette_orange_orange_800">#ffbf5c29</color>
-    <color name="palette_orange_orange_700">#ffde763a</color>
-    <color name="palette_orange_orange_600">#ffe68246</color>
-    <color name="palette_orange_orange_500">#ffee8e53</color>
-    <color name="palette_orange_orange_400">#fff2a069</color>
-    <!-- 
-        This is our main color. And this description will show inside the documentation 
-    -->
-    <color name="palette_orange_orange_300">#fff4b388</color>
-    <color name="palette_orange_orange_200">#fff6c7a9</color>
-    <color name="palette_orange_orange_100">#fff7ddce</color>
-    <color name="palette_orange_orange_0">#fffceee4</color>
-
-    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
-    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
-    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
-    <color name="palette_yellow_yellow_800">#ffb0772a</color>
-    <color name="palette_yellow_yellow_700">#ffd49b35</color>
-    <color name="palette_yellow_yellow_600">#fff6be41</color>
-    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
-    <color name="palette_yellow_yellow_400">#fffad961</color>
-    <color name="palette_yellow_yellow_300">#fffbe17f</color>
-    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
-    <color name="palette_yellow_yellow_100">#fffbeed1</color>
-    <color name="palette_yellow_yellow_0">#fffef8e4</color>
-
     <color name="palette_teal_teal_1100">#ff0b2427</color>
     <color name="palette_teal_teal_1000">#ff1b3e3e</color>
     <color name="palette_teal_teal_900">#ff2a6461</color>
@@ -198,6 +169,35 @@
     <color name="palette_aqua_aqua_200">#ffb5f0f1</color>
     <color name="palette_aqua_aqua_100">#ffd0f7f8</color>
     <color name="palette_aqua_aqua_0">#ffe0fbfb</color>
+
+    <color name="palette_orange_orange_1100">#ff2a140f</color>
+    <color name="palette_orange_orange_1000">#ff581d09</color>
+    <color name="palette_orange_orange_900">#ff8a341a</color>
+    <color name="palette_orange_orange_800">#ffbf5c29</color>
+    <color name="palette_orange_orange_700">#ffde763a</color>
+    <color name="palette_orange_orange_600">#ffe68246</color>
+    <color name="palette_orange_orange_500">#ffee8e53</color>
+    <color name="palette_orange_orange_400">#fff2a069</color>
+    <!-- 
+        This is our main color. And this description will show inside the documentation 
+    -->
+    <color name="palette_orange_orange_300">#fff4b388</color>
+    <color name="palette_orange_orange_200">#fff6c7a9</color>
+    <color name="palette_orange_orange_100">#fff7ddce</color>
+    <color name="palette_orange_orange_0">#fffceee4</color>
+
+    <color name="palette_yellow_yellow_1100">#ff2a1b08</color>
+    <color name="palette_yellow_yellow_1000">#ff4e2c0b</color>
+    <color name="palette_yellow_yellow_900">#ff8b4f1f</color>
+    <color name="palette_yellow_yellow_800">#ffb0772a</color>
+    <color name="palette_yellow_yellow_700">#ffd49b35</color>
+    <color name="palette_yellow_yellow_600">#fff6be41</color>
+    <color name="palette_yellow_yellow_500">#fff8ce4c</color>
+    <color name="palette_yellow_yellow_400">#fffad961</color>
+    <color name="palette_yellow_yellow_300">#fffbe17f</color>
+    <color name="palette_yellow_yellow_200">#fffbe9a4</color>
+    <color name="palette_yellow_yellow_100">#fffbeed1</color>
+    <color name="palette_yellow_yellow_0">#fffef8e4</color>
 
     <color name="palette_blue_blue_1100">#ff082036</color>
     <color name="palette_blue_blue_1000">#ff18395d</color>
@@ -300,6 +300,11 @@
     <color name="special_rating_rating_hover_off">#fff6be41</color>
 
 
+    <color name="semantic_warning_warning_color">#ff8b4f1f</color>
+    <color name="semantic_warning_warning_icon">#ffba7506</color>
+    <color name="semantic_warning_warning_border">#fffad961</color>
+    <color name="semantic_warning_warning_background">#fffbeed1</color>
+
     <color name="semantic_primary_primary_active_background">#ff58c1b2</color>
     <color name="semantic_primary_primary_hover_background">#ff6addc6</color>
     <color name="semantic_primary_primary_hover_color">#ff1b3e3e</color>
@@ -333,11 +338,6 @@
     <color name="semantic_success_success_icon">#ff3c884d</color>
     <color name="semantic_success_success_border">#ff8fda75</color>
     <color name="semantic_success_success_background">#ffddf3d9</color>
-
-    <color name="semantic_warning_warning_color">#ff8b4f1f</color>
-    <color name="semantic_warning_warning_icon">#ffba7506</color>
-    <color name="semantic_warning_warning_border">#fffad961</color>
-    <color name="semantic_warning_warning_background">#fffbeed1</color>
 
 
 </resources>
