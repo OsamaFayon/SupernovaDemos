@@ -65,6 +65,10 @@ const orangeOrange500 = "#cc4d00";
 const orangeOrange600 = "#b53c0a";
 const demoColorToken = "#715959";
 const testDemo = "#5a1c1c";
+const snToken = "#271111";
+const osama = "#643131";
+const testValue = "#402d2d";
+const testDemo = "#7c3838";
 const foregroundNeutral = neutralNeutral900;
 const foregroundPrimary = primaryPrimary800;
 const foregroundCritical = redRed600;
@@ -188,6 +192,10 @@ export const Colors = {
     orangeOrange500,
     orangeOrange600,
     demoColorToken,
+    testDemo,
+    snToken,
+    osama,
+    testValue,
     testDemo,
     foregroundNeutral,
     foregroundPrimary,
