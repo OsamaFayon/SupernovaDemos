@@ -1,33 +1,3 @@
-const dimensionToken1 = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
-         };
-const borderRadiusRadiusToken = {
-          measure: 6,
-          unit: "Pixels",
-          css: "6px"
-         };
-const borderRadiusRd = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
-         };
-const dimensionToken2 = {
-          measure: 10,
-          unit: "Pixels",
-          css: "10px"
-         };
-const borderRadiusKelioMeasure = {
-          measure: 3,
-          unit: "Pixels",
-          css: "3px"
-         };
-const borderRadiusToken1 = {
-          measure: 6,
-          unit: "Pixels",
-          css: "6px"
-         };
 const dimensionBorderRadiusNone = {
           measure: 0,
           unit: "Pixels",
@@ -118,24 +88,33 @@ const dimensionSpacing40 = {
           unit: "Pixels",
           css: "40px"
          };
+const dimensionSpacingSemanticStackGap = {
+          measure: 1,
+          unit: "Pixels",
+          css: "1px"
+         };
 const dimensionOpacityDisabled = {
           measure: 50,
           unit: "Pixels",
           css: "50px"
          };
-const borderRadiusSnRadius = {
-          measure: 5,
+const dimensionShadowFocusRingWidth = {
+          measure: 3,
           unit: "Pixels",
-          css: "5px"
+          css: "3px"
+         };
+const borderRadiusRadius = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const borderRadiusTestDemo = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
          };
 
 export const Measures = {
-      dimensionToken1,
-      borderRadiusRadiusToken,
-      borderRadiusRd,
-      dimensionToken2,
-      borderRadiusKelioMeasure,
-      borderRadiusToken1,
   /** No radius */
       dimensionBorderRadiusNone,
       dimensionBorderRadiusSmall,
@@ -156,6 +135,9 @@ export const Measures = {
       dimensionSpacing32,
       dimensionSpacing36,
       dimensionSpacing40,
+      dimensionSpacingSemanticStackGap,
       dimensionOpacityDisabled,
-      borderRadiusSnRadius,
+      dimensionShadowFocusRingWidth,
+      borderRadiusRadius,
+      borderRadiusTestDemo,
 }
