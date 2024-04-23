@@ -69,6 +69,7 @@ const snToken = "#271111";
 const osama = "#643131";
 const testValue = "#402d2d";
 const testDemo = "#7c3838";
+const testSn = "#5d3e3e";
 const foregroundNeutral = neutralNeutral900;
 const foregroundPrimary = primaryPrimary800;
 const foregroundCritical = redRed600;
@@ -197,6 +198,7 @@ export const Colors = {
     osama,
     testValue,
     testDemo,
+    testSn,
     foregroundNeutral,
     foregroundPrimary,
     foregroundCritical,

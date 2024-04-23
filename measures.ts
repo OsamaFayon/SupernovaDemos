@@ -108,6 +108,11 @@ const borderRadiusRadius = {
           unit: "Pixels",
           css: "10px"
          };
+const borderRadiusTestDemo = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
 
 export const Measures = {
   /** No radius */
@@ -134,4 +139,5 @@ export const Measures = {
       dimensionOpacityDisabled,
       dimensionShadowFocusRingWidth,
       borderRadiusRadius,
+      borderRadiusTestDemo,
 }
