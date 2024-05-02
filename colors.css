@@ -73,6 +73,7 @@
     --colorColorTestDemo: #7c3838;    
     --colorColorTestSn: #5d3e3e;    
     --colorColorTestColor: #4d3131;    
+    --colorColorTestColor: #b26262;    
     --colorForegroundNeutral: var(--colorNeutralNeutral900);    
     --colorForegroundPrimary: var(--colorPrimaryPrimary800);    
     --colorForegroundCritical: var(--colorRedRed600);    
