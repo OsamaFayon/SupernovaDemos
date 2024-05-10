@@ -1074,6 +1074,18 @@
         }
       }
     },
+    "token-1": {
+      "value": "#ffffffff",
+      "type": "color"
+    },
+    "sn-token": {
+      "value": "#892a2aff",
+      "type": "color"
+    },
+    "token-2": {
+      "value": "#923838ff",
+      "type": "color"
+    },
     "neutral-900": {
       "value": "#14171fff",
       "type": "color"
@@ -1158,16 +1170,20 @@
       "value": "#b53c0aff",
       "type": "color"
     },
-    "token-1": {
-      "value": "#ffffffff",
+    "supernova-color": {
+      "value": "#2b55bdff",
       "type": "color"
     },
-    "sn-token": {
-      "value": "#ce4c4cff",
+    "sn-color-toekn": {
+      "value": "#b52828ff",
       "type": "color"
     },
-    "token-2": {
-      "value": "#923838ff",
+    "sn-token-1": {
+      "value": "#330505ff",
+      "type": "color"
+    },
+    "tst-token": {
+      "value": "#9f2b2bff",
       "type": "color"
     }
   }
