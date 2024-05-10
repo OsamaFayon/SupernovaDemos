@@ -295,7 +295,34 @@
     "letter-spacing": {},
     "paragraph-spacing": {},
     "border-width": {},
-    "border-radius": {},
+    "border-radius": {
+      "radius": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 10
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "test-demo": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 10
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      }
+    },
     "duration": {},
     "z-index": {}
   }
