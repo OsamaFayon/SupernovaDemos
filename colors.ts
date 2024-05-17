@@ -73,6 +73,8 @@ const testSn = "#5d3e3e";
 const testColor = "#4d3131";
 const testColor = "#b26262";
 const testToken = "#5a1313";
+const snTokenTest = "#a75757";
+const testPetronas = "#5a2828";
 const foregroundNeutral = neutralNeutral900;
 const foregroundPrimary = primaryPrimary800;
 const foregroundCritical = redRed600;
@@ -205,6 +207,8 @@ export const Colors = {
     testColor,
     testColor,
     testToken,
+    snTokenTest,
+    testPetronas,
     foregroundNeutral,
     foregroundPrimary,
     foregroundCritical,
