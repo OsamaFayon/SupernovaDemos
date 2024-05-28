@@ -67,6 +67,16 @@
     --colorOrangeOrange600: #b53c0a;    
     --colorColorDemoColorToken: #715959;    
     --colorColorTestDemo: #5a1c1c;    
+    --colorColorSnToken: #271111;    
+    --colorColorOsama: #643131;    
+    --colorColorTestValue: #402d2d;    
+    --colorColorTestDemo: #7c3838;    
+    --colorColorTestSn: #5d3e3e;    
+    --colorColorTestColor: #4d3131;    
+    --colorColorTestColor: #b26262;    
+    --colorColorTestToken: #5a1313;    
+    --colorColorSnTokenTest: #a75757;    
+    --colorColorTestPetronas: #5a2828;    
     --colorForegroundNeutral: var(--colorNeutralNeutral900);    
     --colorForegroundPrimary: var(--colorPrimaryPrimary800);    
     --colorForegroundCritical: var(--colorRedRed600);    
